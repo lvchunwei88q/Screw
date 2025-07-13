@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InitializeProject", "InitializeProject\InitializeProject.vcxproj", "{2DAEB99F-A0CE-4F79-AF85-6A9EDCB9753B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Screw", "Screw\Screw.vcxproj", "{441FAFE5-94D9-46E8-9493-B9D5E0726B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441FAFE5-94D9-46E8-9493-B9D5E0726B39}.Debug|x64.ActiveCfg = Debug|x64
+		{441FAFE5-94D9-46E8-9493-B9D5E0726B39}.Debug|x64.Build.0 = Debug|x64
+		{441FAFE5-94D9-46E8-9493-B9D5E0726B39}.Release|x64.ActiveCfg = Release|x64
+		{441FAFE5-94D9-46E8-9493-B9D5E0726B39}.Release|x64.Build.0 = Release|x64
+		{2DAEB99F-A0CE-4F79-AF85-6A9EDCB9753B}.Debug|x64.ActiveCfg = Debug|x64
+		{2DAEB99F-A0CE-4F79-AF85-6A9EDCB9753B}.Debug|x64.Build.0 = Debug|x64
+		{2DAEB99F-A0CE-4F79-AF85-6A9EDCB9753B}.Release|x64.ActiveCfg = Release|x64
+		{2DAEB99F-A0CE-4F79-AF85-6A9EDCB9753B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A0FF97-6E3B-476D-88F8-AFD8D54C9C74}
+	EndGlobalSection
+EndGlobal
